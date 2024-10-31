@@ -14,7 +14,7 @@
 
 
 
-## Analysis - Vizulaization
+## Analysis - Visualization
 ![image](https://github.com/yugallakhyani11/Food_Inspection_Analysis_DW/assets/145067889/86913154-7510-4fa2-b735-8a22052a296e)
 
 
