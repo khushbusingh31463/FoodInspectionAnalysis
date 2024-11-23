@@ -1,10 +1,3 @@
-import pandas as pd
-from ydata_profiling import ProfileReport
-
-df = pd.read_csv(r'D:\DADA BI\Datasets\MidTerm\Food_Inspections_Chicago.tsv', sep='\t')
-
-# df = pd.read_csv(r'D:\DADA BI\Datasets\MidTerm\Food_Inspections_Chicago.csv')
-
-profile = ProfileReport(df, title="Chicago Profiling Report")
-
-profile.to_file("Chicago_Profiling_tsv_report.html")
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd76fd75733fe683f83000835c0838b6bee8db233b23b17562396310d145184
+size 357
